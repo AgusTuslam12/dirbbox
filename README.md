@@ -6,11 +6,21 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/101172887/196013464-522729a3-93a0-4bc9-b39a-289c24df6673.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://user-images.githubusercontent.com/101172887/196013536-1e031398-f260-4d7b-ba54-b1ed76883e53.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/101172887/196013538-a796a960-d589-4e49-bab4-6d73876a03cf.png)
+
+
+# Packages
+- cupertino_icons: ^1.0.2
+- fl_chart: ^0.55.2
+- flutter_zoom_drawer: ^3.0.3
+- footer: ^0.0.4
+- get: 4.6.5
+- google_fonts: ^3.0.1
+- percent_indicator: ^4.2.2
+
+## Resouce Ui
+https://www.figma.com/community/file/892116687909024921
