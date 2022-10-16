@@ -1,6 +1,6 @@
 # dirbbox
 
-Flutter project.
+Mastring mobile UI Flutter
 
 ## Getting Started
 
