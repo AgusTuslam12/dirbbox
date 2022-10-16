@@ -21,5 +21,8 @@ Mastring mobile UI Flutter
 - google_fonts: ^3.0.1
 - percent_indicator: ^4.2.2
 
+## Learning By Kuldii Project
+https://www.youtube.com/watch?v=7jDp-hEpKig&list=PL7jdfftn7HKt7qhIK62yNNPuvN39QEzQC
+
 ## Resource Ui
 https://www.figma.com/community/file/892116687909024921
