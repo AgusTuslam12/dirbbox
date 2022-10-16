@@ -16,56 +16,56 @@ class DataList extends StatelessWidget {
         width: 36,
       ),
       "nama": "Mobile Apps",
-      "date": "Decembar 10.2020"
+      "date": "Agustus 20.2022"
     },
     {
       "color": Color(0xffFFFBEC),
       "colorText": Color(0xffFFB110),
       "imageFolder": Image.asset("assets/images/folder_yellow.png"),
-      "nama": "Mobile Apps",
-      "date": "Decembar 10.2020"
+      "nama": "SVG Icons",
+      "date": "Oktober 104.2022"
     },
     {
       "color": Color(0xffFEEEEE),
       "colorText": Color(0xffAC4040),
       "imageFolder": Image.asset("assets/images/folder_red.png"),
-      "nama": "Mobile Apps",
-      "date": "Decembar 10.2020"
+      "nama": "Prototypes",
+      "date": "Mei 22.2022"
     },
     {
       "color": Color(0xffF0FFFF),
       "colorText": Color(0xff23B0B0),
       "imageFolder": Image.asset("assets/images/folder_green.png"),
-      "nama": "Mobile Apps",
-      "date": "Decembar 10.2020"
+      "nama": "Avatars",
+      "date": "Juli 10.2020"
     },
     {
       "color": Color(0xffEEF7FE),
       "colorText": Color(0xff415EB6),
       "imageFolder": Image.asset("assets/images/folder_blue.png"),
-      "nama": "Mobile Apps",
-      "date": "Decembar 10.2020"
+      "nama": "Design",
+      "date": "Maret 20.2022"
     },
     {
       "color": Color(0xffFFFBEC),
       "colorText": Color(0xffFFB110),
       "imageFolder": Image.asset("assets/images/folder_yellow.png"),
-      "nama": "Mobile Apps",
-      "date": "Decembar 10.2020"
+      "nama": "Portofolio",
+      "date": "November 14.2021"
     },
     {
       "color": Color(0xffFEEEEE),
       "colorText": Color(0xffAC4040),
       "imageFolder": Image.asset("assets/images/folder_red.png"),
-      "nama": "Mobile Apps",
-      "date": "Decembar 10.2020"
+      "nama": "References",
+      "date": "Januari 10.2022"
     },
     {
       "color": Color(0xffF0FFFF),
       "colorText": Color(0xff23B0B0),
       "imageFolder": Image.asset("assets/images/folder_green.png"),
-      "nama": "Mobile Apps",
-      "date": "Decembar 10.2020"
+      "nama": "Clients",
+      "date": "Juli 16.2022"
     },
   ];
 
