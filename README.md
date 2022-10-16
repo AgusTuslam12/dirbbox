@@ -1,10 +1,9 @@
 # dirbbox
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
 ![image](https://user-images.githubusercontent.com/101172887/196013464-522729a3-93a0-4bc9-b39a-289c24df6673.png)
 
@@ -22,5 +21,5 @@ This project is a starting point for a Flutter application.
 - google_fonts: ^3.0.1
 - percent_indicator: ^4.2.2
 
-## Resouce Ui
+## Resource Ui
 https://www.figma.com/community/file/892116687909024921
